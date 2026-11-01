@@ -1,0 +1,13 @@
+scenario,detector,total_false_alert_days,total_monitoring_days,detection_rate,mean_detection_delay,false_alert_rate
+concept_drift,adwin,0,500,0.0,,0.0
+concept_drift,ks,28,500,0.8,7.5,0.056
+concept_drift,ph,2,500,1.0,11.3,0.004
+concept_drift,psi,0,500,0.0,,0.0
+feature_drift,adwin,0,500,1.0,0.0,0.0
+feature_drift,ks,28,500,1.0,0.0,0.056
+feature_drift,ph,2,500,0.3,5.0,0.004
+feature_drift,psi,0,500,1.0,0.0,0.0
+stable,adwin,0,1000,,,0.0
+stable,ks,55,1000,,,0.055
+stable,ph,11,1000,,,0.011
+stable,psi,0,1000,,,0.0
