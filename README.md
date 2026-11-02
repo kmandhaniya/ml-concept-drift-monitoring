@@ -84,7 +84,7 @@ The Streamlit dashboard includes:
 - Drift detector comparisons.
 - Temporal model comparison and rolling accuracy charts.
 
-**Live demo:** Link to be added after deployment.
+**Live demo:** [Link](https://ml-drift-monitoring-lab.streamlit.app/) .
 
 ## Project Structure
 
